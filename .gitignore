@@ -2,6 +2,14 @@
 !*.*
 !*/
 
+*.zip
+
+HW*
+
+*.sublime-workspace
+
+.DS_Store
+
 # Prerequisites
 *.d
 
